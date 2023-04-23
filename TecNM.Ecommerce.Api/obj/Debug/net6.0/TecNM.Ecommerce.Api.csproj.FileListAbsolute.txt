@@ -1,0 +1,96 @@
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.exe
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.deps.json
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.runtimeconfig.json
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.pdb
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.pdb
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.AssemblyReference.cache
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.AssemblyInfoInputs.cache
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.AssemblyInfo.cs
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.CoreCompileInputs.cache
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\scopedcss\bundle\TecNM.Ecommerce.Api.styles.css
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.CopyComplete
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\refint\TecNM.Ecommerce.Api.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.pdb
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.genruntimeconfig.cache
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\ref\TecNM.Ecommerce.Api.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\blake\RiderProjects\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.exe
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.deps.json
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.runtimeconfig.json
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.pdb
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.pdb
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.AssemblyInfo.cs
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\scopedcss\bundle\TecNM.Ecommerce.Api.styles.css
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.CopyComplete
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\refint\TecNM.Ecommerce.Api.dll
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.pdb
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.genruntimeconfig.cache
+C:\Users\angel\Downloads\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\ref\TecNM.Ecommerce.Api.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.exe
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.deps.json
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.runtimeconfig.json
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Api.pdb
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\bin\Debug\net6.0\TecNM.Ecommerce.Core.pdb
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.AssemblyReference.cache
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.AssemblyInfoInputs.cache
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.AssemblyInfo.cs
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.CoreCompileInputs.cache
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\scopedcss\bundle\TecNM.Ecommerce.Api.styles.css
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.csproj.CopyComplete
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\refint\TecNM.Ecommerce.Api.dll
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.pdb
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\TecNM.Ecommerce.Api.genruntimeconfig.cache
+C:\Users\angel\RiderProjects\TecNM.Ecommerce (2do Parcial)\TecNM.Ecommerce\TecNM.Ecommerce.Api\obj\Debug\net6.0\ref\TecNM.Ecommerce.Api.dll
